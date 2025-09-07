@@ -1,0 +1,6 @@
+urllib3
+pyodbc
+sendgrid
+python_http_client
+darkdetect
+customtkinter

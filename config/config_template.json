@@ -1,0 +1,14 @@
+{
+	"email": {
+		"senderAddress": "",
+		"receiverArray": "",
+		"body": "",
+		"contentType": ""
+	},
+	"database": {
+		"driver": "",
+		"host": "",
+		"database": "",
+		"owner": ""
+	}
+}

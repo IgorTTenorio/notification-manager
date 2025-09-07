@@ -1,0 +1,22 @@
+{
+"personalizations": [
+	{
+	"to": [
+		{
+		"email": ""
+		}
+		],
+	"bcc": []
+	}
+	],
+	"from": {
+	"email": ""
+	},
+	"subject": "",
+	"content": [
+	{
+	"type": "",
+	"value": ""
+	}
+	]
+}
